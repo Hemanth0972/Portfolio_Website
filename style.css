@@ -141,6 +141,14 @@
 
 }
 
+.contactform form div textarea {
+    /* width: 26vw; */
+    border-radius: 5px;
+    margin: 6px 0 0 0;
+    padding: 3px;
+
+}
+
 .contactform form {
     margin: 0 40px;
 
